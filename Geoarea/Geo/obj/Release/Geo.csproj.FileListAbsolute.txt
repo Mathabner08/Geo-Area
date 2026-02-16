@@ -1,0 +1,33 @@
+C:\Users\emanuel\source\repos\Geoarea\Geo\bin\Release\Geo.exe.config
+C:\Users\emanuel\source\repos\Geoarea\Geo\bin\Release\Geo.exe
+C:\Users\emanuel\source\repos\Geoarea\Geo\bin\Release\Geo.pdb
+C:\Users\emanuel\source\repos\Geoarea\Geo\obj\Release\Geo.Form1.resources
+C:\Users\emanuel\source\repos\Geoarea\Geo\obj\Release\Geo.Form2.resources
+C:\Users\emanuel\source\repos\Geoarea\Geo\obj\Release\Geo.Properties.Resources.resources
+C:\Users\emanuel\source\repos\Geoarea\Geo\obj\Release\Geo.csproj.GenerateResource.cache
+C:\Users\emanuel\source\repos\Geoarea\Geo\obj\Release\Geo.csproj.CoreCompileInputs.cache
+C:\Users\emanuel\source\repos\Geoarea\Geo\obj\Release\Geo.exe
+C:\Users\emanuel\source\repos\Geoarea\Geo\obj\Release\Geo.pdb
+C:\Users\Matheus\Desktop\Geoarea\Geo\bin\Release\Geo.exe.config
+C:\Users\Matheus\Desktop\Geoarea\Geo\bin\Release\Geo.exe
+C:\Users\Matheus\Desktop\Geoarea\Geo\bin\Release\Geo.pdb
+C:\Users\Matheus\Desktop\Geoarea\Geo\obj\Release\Geo.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Geoarea\Geo\obj\Release\Geo.Form1.resources
+C:\Users\Matheus\Desktop\Geoarea\Geo\obj\Release\Geo.Form2.resources
+C:\Users\Matheus\Desktop\Geoarea\Geo\obj\Release\Geo.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Geoarea\Geo\obj\Release\Geo.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Geoarea\Geo\obj\Release\Geo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Geoarea\Geo\obj\Release\Geo.exe
+C:\Users\Matheus\Desktop\Geoarea\Geo\obj\Release\Geo.pdb
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\bin\Release\Geo.exe.config
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\bin\Release\Geo.exe
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\bin\Release\Geo.pdb
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\obj\Release\Geo.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\obj\Release\Geo.exe.config
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\obj\Release\Geo.Form1.resources
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\obj\Release\Geo.Form2.resources
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\obj\Release\Geo.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\obj\Release\Geo.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\obj\Release\Geo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\obj\Release\Geo.exe
+C:\Users\Matheus\Desktop\Meus programas\Geoarea\Geo\obj\Release\Geo.pdb
